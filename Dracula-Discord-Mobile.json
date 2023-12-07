@@ -1,6 +1,6 @@
 {
-  "name": "Dracula Discord Mobile",
-  "description": "Dracula theme for mobile Discord with pastel colors",
+  "name": "Monokai Discord Mobile",
+  "description": "Monokai theme for mobile Discord with vibrant colors",
   "authors": [
     {
       "name": "DemonKingSwarn",
@@ -10,79 +10,79 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#6272A4"
+      "#F92672"
     ],
     "HEADER_SECONDARY": [
-      "#44475A"
+      "#75715E"
     ],
     "TEXT_NORMAL": [
       "#F8F8F2"
     ],
     "TEXT_MUTED": [
-      "#979DB4"
+      "#75715E"
     ],
     "TEXT_LINK": [
-      "#BD93F9"
+      "#66D9EF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#979DB4"
+      "#75715E"
     ],
     "INTERACTIVE_HOVER": [
-      "#44475A"
+      "#75715E"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#44475A"
+      "#75715E"
     ],
     "INTERACTIVE_MUTED": [
-      "#979DB4"
+      "#75715E"
     ],
     "BACKGROUND_PRIMARY": [
-      "#282A36"
+      "#272822"
     ],
     "BACKGROUND_SECONDARY": [
-      "#282A36"
+      "#272822"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#44475A"
+      "#75715E"
     ],
     "BACKGROUND_TERTIARY": [
-      "#191A21"
+      "#1B1D1E"
     ],
     "BACKGROUND_ACCENT": [
-      "#1E1E1E"
+      "#49483E"
     ],
     "BACKGROUND_FLOATING": [
-      "#1E1E1E"
+      "#49483E"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#282A36"
+      "#272822"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#282A36"
+      "#272822"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#F8F8F2"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#44475A"
+      "#75715E"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#383838"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#FF6AC1"
+      "#F92672"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#44475A"
+      "#75715E"
     ],
     "TEXT_DANGER": [
-      "#FF5555"
+      "#FF6C6B"
     ],
     "CHANNEL_ICON": [
-      "#282A36"
+      "#272822"
     ],
     "CHAT_BACKGROUND": [
-      "#282A36"
+      "#272822"
     ]
   },
   "plus": {
