@@ -1,6 +1,6 @@
 {
   "name": "Dracula Discord Mobile",
-  "description": "Dracula theme for mobile Discord with hot pink and AMOLED black",
+  "description": "Dracula theme for mobile Discord with pastel colors",
   "authors": [
     {
       "name": "DemonKingSwarn",
@@ -10,31 +10,31 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#44475A"
+      "#6272A4"
     ],
     "HEADER_SECONDARY": [
-      "#282A36"
+      "#44475A"
     ],
     "TEXT_NORMAL": [
       "#F8F8F2"
     ],
     "TEXT_MUTED": [
-      "#6272A4"
+      "#979DB4"
     ],
     "TEXT_LINK": [
       "#BD93F9"
     ],
     "INTERACTIVE_NORMAL": [
-      "#6272A4"
+      "#979DB4"
     ],
     "INTERACTIVE_HOVER": [
-      "#282A36"
+      "#44475A"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#282A36"
+      "#44475A"
     ],
     "INTERACTIVE_MUTED": [
-      "#6272A4"
+      "#979DB4"
     ],
     "BACKGROUND_PRIMARY": [
       "#282A36"
