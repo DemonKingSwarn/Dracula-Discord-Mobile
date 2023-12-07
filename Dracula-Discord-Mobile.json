@@ -1,52 +1,52 @@
 {
-  "name": "Material Discord Mobile",
-  "description": "Material you discord theme for mobile",
+  "name": "Dracula Discord Mobile",
+  "description": "Dracula theme for mobile Discord",
   "authors": [
     {
-      "name": "Wilk22",
-      "id": "543154693984223245"
+      "name": "DemonKingSwarn",
+      "id": "453522683745927178"
     }
   ],
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#EEEEEE"
+      "#44475A"
     ],
     "HEADER_SECONDARY": [
-      "#EAEAEA"
+      "#282A36"
     ],
     "TEXT_NORMAL": [
-      "#DEDEDE"
+      "#F8F8F2"
     ],
     "TEXT_MUTED": [
-      "#B9B9B9"
+      "#6272A4"
     ],
     "TEXT_LINK": [
-      "#5078b4"
+      "#BD93F9"
     ],
     "INTERACTIVE_NORMAL": [
-      "#B9B9B9"
+      "#6272A4"
     ],
     "INTERACTIVE_HOVER": [
-      "#EAEAEA"
+      "#282A36"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#EAEAEA"
+      "#282A36"
     ],
     "INTERACTIVE_MUTED": [
-      "#676767"
+      "#6272A4"
     ],
     "BACKGROUND_PRIMARY": [
-      "#16171A"
+      "#282A36"
     ],
     "BACKGROUND_SECONDARY": [
-      "#16171A"
+      "#282A36"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#27272A"
+      "#44475A"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0f1012"
+      "#191A21"
     ],
     "BACKGROUND_ACCENT": [
       "1E1E1E"
@@ -55,34 +55,34 @@
       "1E1E1E"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#16171A"
+      "#282A36"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#16171A"
+      "#282A36"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#DEDEDE"
+      "#F8F8F2"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#272727"
+      "#44475A"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#383838"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#283C5A"
+      "#6272A4"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#293242"
+      "#44475A"
     ],
     "TEXT_DANGER": [
-      "#F04040"
+      "#FF5555"
     ],
     "CHANNEL_ICON": [
-      "#EAEAEA"
+      "#282A36"
     ],
     "CHAT_BACKGROUND": [
-      "#16171A"
+      "#282A36"
     ]
   },
   "plus": {
