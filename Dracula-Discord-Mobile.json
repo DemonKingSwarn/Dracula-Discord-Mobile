@@ -8,6 +8,9 @@
     }
   ],
   "spec": 2,
+  "font": {
+    "family": "Google Sans, sans-serif"
+  },
   "semanticColors": {
     "HEADER_PRIMARY": [
       "#44475A"
