@@ -1,8 +1,8 @@
-# Material-Discord-Mobile
-#### Material you discord theme for mobile
+# Dracula-Discord-Mobile
+#### Dracula discord theme for mobile
 <hr>
 
 Vendetta install link
 ```
-https://raw.githubusercontent.com/Wilk-22/Material-Discord-Mobile/main/Material-Discord-Mobile.json
+https://raw.githubusercontent.com/DemonKingSwarn/Dracula-Discord-Mobile/main/Dracula-Discord-Mobile.json
 ```
