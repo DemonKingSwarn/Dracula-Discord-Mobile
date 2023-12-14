@@ -1,6 +1,6 @@
 {
-  "name": "Monokai Discord Mobile",
-  "description": "Monokai theme for mobile Discord with vibrant colors",
+  "name": "Nord Discord Mobile",
+  "description": "Nord theme for mobile Discord with calm colors",
   "authors": [
     {
       "name": "DemonKingSwarn",
@@ -10,79 +10,79 @@
   "spec": 2,
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#F92672"
+      "#81A1C1"
     ],
     "HEADER_SECONDARY": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "TEXT_NORMAL": [
-      "#F8F8F2"
+      "#E5E9F0"
     ],
     "TEXT_MUTED": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "TEXT_LINK": [
-      "#66D9EF"
+      "#88C0D0"
     ],
     "INTERACTIVE_NORMAL": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "INTERACTIVE_HOVER": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "INTERACTIVE_MUTED": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "BACKGROUND_PRIMARY": [
-      "#272822"
+      "#2E3440"
     ],
     "BACKGROUND_SECONDARY": [
-      "#272822"
+      "#2E3440"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1B1D1E"
+      "#3B4252"
     ],
     "BACKGROUND_ACCENT": [
-      "#49483E"
+      "#4C566A"
     ],
     "BACKGROUND_FLOATING": [
-      "#49483E"
+      "#4C566A"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#272822"
+      "#2E3440"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#272822"
+      "#2E3440"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#F8F8F2"
+      "#E5E9F0"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#383838"
+      "#434C5E"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#F92672"
+      "#81A1C1"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#75715E"
+      "#D8DEE9"
     ],
     "TEXT_DANGER": [
-      "#FF6C6B"
+      "#BF616A"
     ],
     "CHANNEL_ICON": [
-      "#272822"
+      "#2E3440"
     ],
     "CHAT_BACKGROUND": [
-      "#272822"
+      "#2E3440"
     ]
   },
   "plus": {
